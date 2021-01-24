@@ -74,14 +74,15 @@ async function execute(message, serverQueue) {
           val = "https://www.youtube.com/watch?v=PIsCct_LBrQ&ab_channel=PoodlersFreitas";
           song.title = "CUM :drool: CUM :drool: CUM :drool: CUM :drool:"
           break;
-      case `disoster`:
-           val = "https://www.youtube.com/watch?v=PIsCct_LBrQ&ab_channel=PoodlersFreitas";
+      case `ritopls`:
+           val = "https://www.youtube.com/watch?v=jh-mxJNBPLg";
+           song.title = "I'M :rage: SO :face_with_symbols_over_mouth: SICK :face_with_symbols_over_mouth: OF :rage: THIS :face_with_symbols_over_mouth: SHIT";
           break;
-      case `joking`:
-           val = "https://www.youtube.com/watch?v=PIsCct_LBrQ&ab_channel=PoodlersFreitas";
+      case `nomana`:
+           val = "https://www.youtube.com/watch?v=RGqNFH0atfc";
           break;
-      case `whatisthat`:
-           val = "https://www.youtube.com/watch?v=PIsCct_LBrQ&ab_channel=PoodlersFreitas";
+      case `hashinshin`:
+           val = "https://www.youtube.com/watch?v=xf4Y4anXy5Y";
           break;
       case `combo`:
            val = "https://www.youtube.com/watch?v=PIsCct_LBrQ&ab_channel=PoodlersFreitas";
@@ -168,7 +169,7 @@ function play(guild, song) {
 
 function help(message) {
     message.channel.send(
-      "Available commands: shilling, pogchamp, cum, disoster, joking, whatisthat, combo, help, skip, stop"
+      "Available commands: shilling, pogchamp, cum, ritopls, nomana, hashinshin, help, skip, stop"
     );
 }
 
