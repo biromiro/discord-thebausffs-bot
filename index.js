@@ -80,9 +80,11 @@ async function execute(message, serverQueue) {
           break;
       case `nomana`:
            val = "https://www.youtube.com/watch?v=RGqNFH0atfc";
+           song.title = "YOU :droplet: HAVE :droplet: NO :droplet: MANA";
           break;
       case `hashinshin`:
            val = "https://www.youtube.com/watch?v=xf4Y4anXy5Y";
+           song.title = "THROW :rock: ANOTHER :rock: ROCK"
           break;
       case `combo`:
            val = "https://www.youtube.com/watch?v=PIsCct_LBrQ&ab_channel=PoodlersFreitas";
