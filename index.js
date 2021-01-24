@@ -75,16 +75,16 @@ async function execute(message, serverQueue) {
           song.title = "CUM :drool: CUM :drool: CUM :drool: CUM :drool:"
           break;
       case `disoster`:
-           val = "";
-          break;;
+           val = "https://www.youtube.com/watch?v=PIsCct_LBrQ&ab_channel=PoodlersFreitas";
+          break;
       case `joking`:
-           val = "";
+           val = "https://www.youtube.com/watch?v=PIsCct_LBrQ&ab_channel=PoodlersFreitas";
           break;
       case `whatisthat`:
-           val = "";
+           val = "https://www.youtube.com/watch?v=PIsCct_LBrQ&ab_channel=PoodlersFreitas";
           break;
       case `combo`:
-           val = "";
+           val = "https://www.youtube.com/watch?v=PIsCct_LBrQ&ab_channel=PoodlersFreitas";
            song.title = "COMBO";
           break;
       default:
@@ -168,7 +168,7 @@ function play(guild, song) {
 
 function help(message) {
     message.channel.send(
-      "Available commands: shilling, solobolo, wpgg, disoster, joking, whatisthat, combo, help, skip, stop"
+      "Available commands: shilling, pogchamp, cum, disoster, joking, whatisthat, combo, help, skip, stop"
     );
 }
 

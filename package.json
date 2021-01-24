@@ -1,0 +1,25 @@
+{
+  "name": "discord-thebausffs-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biromiro/discord-thebausffs-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biromiro/discord-thebausffs-bot/issues"
+  },
+  "homepage": "https://github.com/biromiro/discord-thebausffs-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ffmpeg": "0.0.4",
+    "ytdl-core": "^4.4.4"
+  }
+}
